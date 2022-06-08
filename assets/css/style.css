@@ -37,6 +37,24 @@
 
 }
 
+
+#image-box-perfil>img {
+  width:100%;
+  height:300px;
+  border-radius:150px;
+
+}
+@media only screen and (max-width: 994px) {
+  #image-box-perfil>img {
+    width: 100%;
+    height: 50vh;
+    border-radius: 150px;
+    padding: 4px;
+  } 
+}
+
+
+
 @media only screen and (max-width: 994px) {
   #title-name-jumbotron {
     background-color: grey;
