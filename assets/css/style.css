@@ -1,3 +1,8 @@
+body {
+  background: rgb(31, 30, 55);
+  background: linear-gradient(90deg, rgba(31, 30, 55, 1) 0%, rgba(118, 118, 167, 1) 35%, rgba(121, 149, 154, 1) 100%);
+}
+
 #jumbo_bkmain {
   /* background-image: url(https://www.cloudways.com/blog/wp-content/uploads/20-Best-Web-Design-Tools-for-Design-Agencies.jpg);*/
   background-image: url("../img/backgroundmain.jpeg");
@@ -20,8 +25,6 @@
   font-size: 3.5rem;
   font-weight: 300;
   line-height: 1.2;
-
-
 }
 
 #title-profesion-jumbotron {
@@ -79,6 +82,13 @@
   }
 
 }
+
+
+/* PORTAFOLIO  */
+.cardimgPortafolio{
+  height: 40vh;
+}
+
 
 
 
