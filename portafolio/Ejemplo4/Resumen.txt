@@ -1,0 +1,4 @@
+Nombre: registro de autos
+Rol: desarrollador
+resumen: Realizar una apliacion que permita el ingreso de datos de vehiculos
+Tecnologias: Java

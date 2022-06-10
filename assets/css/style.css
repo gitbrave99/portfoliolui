@@ -144,12 +144,12 @@ body {
 /*FIN CURSOS  */
 
 
-
-/* PORTAFOLIO  */
-.cardimgPortafolio {
+.boximgCardporta > .cardimgPortafolio{
   height: 40vh;
   width: 100%;
 }
+
+
 
 
 

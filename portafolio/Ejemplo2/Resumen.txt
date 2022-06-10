@@ -1,0 +1,4 @@
+Nombre: Registro de pacientes.
+Rol: Desarrollador
+Resumen: se requiere una aplicacion que reciba los datos de pacientes.
+Tecnologias usadas: Java.

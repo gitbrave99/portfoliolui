@@ -1,0 +1,4 @@
+Nombre: maquetacion
+Rol: Desarrollador web
+Resumen: Desarrollar una maquetacion de sitio web
+Tecnologias usadas: HTML, CSS, BOOTSTRAP
